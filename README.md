@@ -1,5 +1,4 @@
-![Developer](https://github.com/EgorPorta/EgorPorta/assets/162593886/a9bd9c74-dfd5-43ba-99cf-4c48d584ae20)
-
+![Developer (1)](https://github.com/EgorPorta/EgorPorta/assets/162593886/e7f7ad5f-a009-4956-b6d0-06beca9baf6e)
 # Front-end Developer
 
 ## About Me
