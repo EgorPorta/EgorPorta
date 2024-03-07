@@ -1,5 +1,5 @@
 ![Developer (1)](https://github.com/EgorPorta/EgorPorta/assets/162593886/e7f7ad5f-a009-4956-b6d0-06beca9baf6e)
-# Front-end Developer
+# Yegor Lautenshlager
 
 ## About Me
 Passionate about creating seamless user experiences and improving product design to attract more users. With almost 5 years of experience in frontend development and user experience design, I specialize in implementing modern design elements, automating deployments, covering logic with tests, and integrating third-party services.
